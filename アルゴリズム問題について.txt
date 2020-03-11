@@ -1,0 +1,8 @@
+アルゴリズム問題について
+
+Fizzbuzz[hard]
+
+・if文とswich文を使わずにFiuzzBuzzを解け
+
+・その時の値も出力せよ
+
